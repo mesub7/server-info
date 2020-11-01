@@ -1,0 +1,9 @@
+{
+    "apps": [{
+        "name": "Server Specs",
+        "cwd": "./",
+        "script": "server_monitor.py",
+        "args": "",
+        "interpreter": "python3"
+    }]
+}
