@@ -1,6 +1,6 @@
 # server-info
 
-Server info is a small bot designed to display information about your server stats (I mean an actual server/computer and not a discord server).
+Server info is a small bot designed to display information about your server stats (I mean an actual server/computer and not a discord server). I made this because I couldn't find anything that was prebuilt for me to just run.
 
 ![image](https://mesub.is-ne.at/x4P7nS.png)
 
